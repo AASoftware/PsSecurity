@@ -32,6 +32,7 @@ Enumerates all user accounts within the AD domain.
 Groups: 
 
 Enumerates all groups within the AD domain and their members.
+
 Recursive Group Memberships:
 
 For each user, identifies all groups they belong to, including nested groups.
@@ -68,7 +69,6 @@ File Export:
 Writes the collected data to text files located in C:\temp, ensuring that the directory exists before creating the files.
 
 Usage:
-Configuration:
 
 Set the AD domain controller, domain, username, and password.
 
