@@ -1,5 +1,7 @@
 # PsSecurity
 Powershell Security Toolset
+Alpha 0.1
+bug in generic All membership
 
 Overview:
 
