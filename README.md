@@ -49,20 +49,32 @@ Detects users configured with the "Do not require Kerberos preauthentication" se
 Permissions Analysis:
 
 Retrieves detailed permissions for AD objects (users and groups) including:
+
 Generic All: Full control permissions.
+
 Generic Write: Permissions to write properties.
+
 Write Owner: Permissions to change the owner of the object.
-Write DACL: Permissions to modify the Discretionary Access Control List.
+
+Write DACL: Permissions to modify the 
+Discretionary Access Control List.
+
 All Extended Rights: Permissions related to extended rights.
+
 Force Change Password: Permissions to force a password change.
 
 Output Generation:
 
 Creates a report summarizing:
+
 User List: All user accounts.
+
 Users with SPNs: Users having SPNs set.
+
 Users with No Kerberos Preauthentication: Users with the specified setting.
+
 Recursive Group Memberships: Detailed group memberships for each user.
+
 Permissions Summary: Detailed permissions for users and groups, excluding common or special accounts.
 
 File Export:
