@@ -1,0 +1,2114 @@
+User/Group and their permissions:
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Administrator,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Administrator,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Administrator,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Guest,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Guest,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Guest,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Guest,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Guest,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Guest,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Guest,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=DefaultAccount,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=DefaultAccount,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=DefaultAccount,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=DefaultAccount,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=DefaultAccount,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=DefaultAccount,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=DefaultAccount,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=krbtgt,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=krbtgt,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=krbtgt,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Aleks Antic,OU=Bern,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Aleks Antic,OU=Bern,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Aleks Antic,OU=Bern,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Tom Meier,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Tom Meier,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Tom Meier,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Tom Meier,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Tom Meier,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Tom Meier,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Tom Meier,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Administrators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Administrators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Administrators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Guests,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Guests,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Guests,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Print Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Print Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Print Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Backup Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Backup Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Backup Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Replicator,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Replicator,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Replicator,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Remote Desktop Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Remote Desktop Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Remote Desktop Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Network Configuration Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Network Configuration Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Network Configuration Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Performance Monitor Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Performance Monitor Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Performance Monitor Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Performance Log Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Performance Log Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Performance Log Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Distributed COM Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Distributed COM Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Distributed COM Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=IIS_IUSRS,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=IIS_IUSRS,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=IIS_IUSRS,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Cryptographic Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Cryptographic Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Cryptographic Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Event Log Readers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Event Log Readers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Event Log Readers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Certificate Service DCOM Access,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Certificate Service DCOM Access,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Certificate Service DCOM Access,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=RDS Remote Access Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=RDS Remote Access Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=RDS Remote Access Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=RDS Endpoint Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=RDS Endpoint Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=RDS Endpoint Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=RDS Management Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=RDS Management Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=RDS Management Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Hyper-V Administrators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Hyper-V Administrators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Hyper-V Administrators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Access Control Assistance Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Access Control Assistance Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Access Control Assistance Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Remote Management Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Remote Management Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Remote Management Users,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=System Managed Accounts Group,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=System Managed Accounts Group,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=System Managed Accounts Group,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Storage Replica Administrators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Storage Replica Administrators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Storage Replica Administrators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Domain Computers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Domain Computers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Domain Computers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Schema Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Schema Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Schema Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Enterprise Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Enterprise Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Enterprise Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Cert Publishers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Cert Publishers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Cert Publishers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Domain Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Domain Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Domain Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Domain Users,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Domain Users,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Domain Users,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Domain Guests,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Domain Guests,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Domain Guests,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Group Policy Creator Owners,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Group Policy Creator Owners,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Group Policy Creator Owners,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=RAS and IAS Servers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=RAS and IAS Servers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=RAS and IAS Servers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Server Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Server Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Server Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Account Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Account Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Account Operators,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Pre-Windows 2000 Compatible Access,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Pre-Windows 2000 Compatible Access,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Pre-Windows 2000 Compatible Access,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Incoming Forest Trust Builders,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Incoming Forest Trust Builders,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Incoming Forest Trust Builders,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Windows Authorization Access Group,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Windows Authorization Access Group,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Windows Authorization Access Group,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Terminal Server License Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Terminal Server License Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Terminal Server License Servers,CN=Builtin,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Allowed RODC Password Replication Group,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Allowed RODC Password Replication Group,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Allowed RODC Password Replication Group,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Denied RODC Password Replication Group,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Denied RODC Password Replication Group,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Denied RODC Password Replication Group,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Read-only Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Read-only Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=Read-only Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Enterprise Read-only Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Enterprise Read-only Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Enterprise Read-only Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Cloneable Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Cloneable Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Cloneable Domain Controllers,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Protected Users,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Protected Users,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Protected Users,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Key Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Key Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Key Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Enterprise Key Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=Enterprise Key Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=Enterprise Key Admins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=DnsAdmins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=DnsAdmins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=DnsAdmins,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=DnsUpdateProxy,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=DnsUpdateProxy,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=DnsUpdateProxy,CN=Users,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=GG-finance,OU=Bern,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=GG-finance,OU=Bern,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-1-0
+User/Group: Everyone
+Object Path: LDAP://dc01.prime.pri/CN=GG-finance,OU=Bern,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=LG-finance,OU=Bern,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=LG-finance,OU=Bern,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=LG-finance,OU=Bern,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=ag-finance,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=ag-finance,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=ag-finance,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=alg-finance,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=alg-finance,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=alg-finance,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=ag-admins,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: False
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-11
+User/Group: NT AUTHORITY\Authenticated Users
+Object Path: LDAP://dc01.prime.pri/CN=ag-admins,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: False
+WriteOwner: False
+WriteDACL: False
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+
+SID: S-1-5-32-544
+User/Group: BUILTIN\Administrators
+Object Path: LDAP://dc01.prime.pri/CN=ag-admins,OU=aargau,DC=prime,DC=pri
+GenericAll: True
+GenericWrite: True
+WriteOwner: True
+WriteDACL: True
+AllExtendedRights: True
+ForceChangePassword: False
+------------------------------
+

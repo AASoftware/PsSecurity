@@ -1,0 +1,62 @@
+Users:
+
+DefaultAccount
+krbtgt
+Guest
+aleks0001
+Administrator
+tom0002
+
+Users with SPN set:
+
+krbtgt
+tom0002
+
+Users with 'Do not require Kerberos preauthentication':
+
+aleks0001
+
+Group Membership Recursively:
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+DefaultAccount
+System Managed Accounts Group
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+krbtgt
+Denied RODC Password Replication Group
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Guest
+Guests
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+aleks0001
+Administrators
+alg-finance
+Denied RODC Password Replication Group
+Domain Admins
+GG-finance
+LG-finance
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Administrator
+Administrators
+Denied RODC Password Replication Group
+Domain Admins
+Enterprise Admins
+Group Policy Creator Owners
+Schema Admins
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+tom0002
+ag-admins
+ag-finance
+alg-finance
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
