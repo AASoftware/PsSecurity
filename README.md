@@ -37,6 +37,7 @@ Recursive Group Memberships:
 
 For each user, identifies all groups they belong to, including nested groups.
 Recursively traverses through group memberships to provide a complete view of group affiliations.
+
 Service Principal Names (SPNs):
 
 Identifies users with Service Principal Names (SPNs) set, which are used for Kerberos authentication.
