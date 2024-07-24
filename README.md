@@ -1,10 +1,12 @@
 # PsSecurity
 Powershell Security Toolset
 
-Overview
+Overview:
+
 This PowerShell script is designed for comprehensive analysis and documentation of permissions and group memberships in an Active Directory (AD) environment. It operates without requiring administrative privileges or specific Active Directory modules, making it accessible for users with standard permissions. The tool relies on plain PowerShell and imports necessary .NET assemblies to perform its tasks.
 
-Key Features
+Key Features:
+
 No Administrative Privileges Required:
 
 The script does not require administrative rights to execute. It can run with standard user permissions.
